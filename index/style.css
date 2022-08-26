@@ -1,0 +1,23 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+ }
+
+h2{
+    color: darkblue;
+}
+#Menu {
+    color: blueviolet;
+}
+
+.drink{
+    color: aqua;
+}
+
+h2.food{
+    color: brown;
+}
+
+h2 span{
+    color: yellow;
+}
